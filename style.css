@@ -25,11 +25,14 @@ body{
 button:hover{
     color: red;
     transform: scale(0.9);
+    text-shadow: 5px 5px black;
 }
 h2{
     font-weight: bold;
     font-size: 40px;
     color: black;
+    text-shadow: 2px 2px black;
+    text-decoration: underline;
 }
 .line{
     height:8px;
